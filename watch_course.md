@@ -1,5 +1,5 @@
 # 手表课程相关接口文档
-*测试环境地址:https://apisvr13ttt.iyunmai.com/watch/*:
+*测试环境地址:*:
 
 *正式环境地址*:
 
